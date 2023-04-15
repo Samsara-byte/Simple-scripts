@@ -1,4 +1,4 @@
-## This is simple scripts that i find useful and using in my life
+## This is simple scripts that i find useful and using it
 
 
 ## 1) Subnet-mask-compare-transfer folder
